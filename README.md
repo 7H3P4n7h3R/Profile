@@ -65,9 +65,8 @@
 
 <p left="center">
 <a href="https://twitter.com/7H3P4n7h3R">
-  <b><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></b>
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<p left="center">
 <a href="https://www.credly.com/users/hashirkhan/badges">
   <img src="https://img.shields.io/badge/Credly-%20-brightgreen" height=25>
 </a> 
