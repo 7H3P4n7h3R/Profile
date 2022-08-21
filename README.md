@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Cybersecurity Speacialist | Penetration Tester | Blockchain Expert & Smart Contract Auditor From Pakistan
+## Hi 👋, I'm a Cybersecurity Specialist | Penetration Tester | Blockchain Expert & Smart Contract Auditor From Pakistan
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
