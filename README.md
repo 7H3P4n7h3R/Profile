@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a Cybersecurity Speacialist | Penetration Tester | Blockchain Expert & Smart Contract Auditor From Pakistan
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
@@ -22,17 +22,17 @@
 #### Now
 
 - ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in DevOps and Cloud engineering;
+- :fire: Interested in Cybersecurity & Blockchain Technology;
 - :calendar: Looking for contributing to python based open source projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **BRAC IT**
+- 🏢 I'm currently working at **Security Foster**
 - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
-- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
+- 🌱 Learning all about **Information Security & Blockchain**
+- 💬 Ping me about **Penetration Testing**, **Red Teaming**, **Bug Hunting**, **Smart Contract Auditing**, **SOC**
+- 📫 Reach me: [www.linkedin.com/in/p4n7h3r](https://www.linkedin.com/in/p4n7h3r/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
@@ -64,19 +64,20 @@
 #### Connect With Me
 
 <p left="center">
-<a href="https://twitter.com/sudiptob2">
+<a href="https://twitter.com/7H3P4n7h3R">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/sudiptob2/">
+<p left="center">
+<a href="https://www.credly.com/users/hashirkhan/badges">
+  <img src="https://img.shields.io/badge/Credly-%20-brightgreen" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/p4n7h3r/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/sudiptob2">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="https://medium.com/@sudiptob2">
+<a href="https://p4n7h3rx.medium.com/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="mailto:sudiptobaral.me@gmail.com">
+<a href="mailto:hashirsamikhan01@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
