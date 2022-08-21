@@ -21,9 +21,9 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+
 - :fire: Interested in Cybersecurity & Blockchain Technology;
-- :calendar: Looking for contributing to python based open source projects 
+- :calendar: Looking for Penetration Testing Project 
 
 #### Bio
 
@@ -65,7 +65,7 @@
 
 <p left="center">
 <a href="https://twitter.com/7H3P4n7h3R">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  <b><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></b>
 </a> 
 <p left="center">
 <a href="https://www.credly.com/users/hashirkhan/badges">
